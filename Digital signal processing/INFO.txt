@@ -1,0 +1,7 @@
+This subject was taught by small laboratory problems, each one with its learning target.
+
+LAB1: Sampling and Aliasing
+LAB2: Spectral Analysis with the Discrete Fourier Transform
+LAB3: Filtering
+LAB4: Anomaly detection in energy time series data
+LAB5: Image Segmentation
